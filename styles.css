@@ -65,3 +65,12 @@ body {
   margin-right: 30%;  
   width: 5%;
 }
+
+#hours {
+  display: inline-block;
+  font-size: 20px;
+}
+
+.hrs {
+  text-align: center;
+}
